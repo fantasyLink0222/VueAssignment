@@ -1,2 +1,7 @@
+Functionality of the Vue.js component (4/4 points)
+Effectiveness of the UI/UX  (2/2 points)
+Code cleanliness and organization (2/2 points)
+Collaboration effort and peer review completion (2/2 points)
 
-
+Nice work! 
+Reviewed by Jashan Sran.
